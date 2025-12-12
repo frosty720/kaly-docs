@@ -10,15 +10,15 @@ Essential tools and information for building on KalyChain.
 
 | Network | Type | URL | Chain ID |
 |---------|------|-----|----------|
-| **Mainnet** | HTTP | `https://rpc.kalychain.io` | `3888` |
+| **Mainnet** | HTTP | `https://rpc.kalychain.io/rpc` | `3888` |
 | **Mainnet** | WSS | `wss://rpc.kalychain.io` | `3888` |
 | **Testnet** | HTTP | `https://testnetrpc.kalychain.io/rpc` | `3889` |
 | **Testnet** | WSS | `wss://testnetrpc.kalychain.io` | `3889` |
 
 ## Explorers
 
-- **Mainnet**: [https://kalychain.io](https://kalychain.io)
-- **Testnet**: [https://testnet.kalychain.io](https://testnet.kalychain.io)
+- **Mainnet**: [https://kalyscan.io](https://kalyscan.io)
+- **Testnet**: [https://testnet.kalyscan.io](https://testnet.kalyscan.io)
 
 ## Faucet
 

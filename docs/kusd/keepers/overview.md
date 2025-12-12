@@ -70,7 +70,7 @@ npm start
 
 ```env
 # .env configuration
-RPC_URL=https://rpc.kalychain.io
+RPC_URL=https://rpc.kalychain.io/rpc
 PRIVATE_KEY=your_private_key_here
 
 # Contract addresses

@@ -65,7 +65,7 @@ EXPLORER=https://testnet.kalyscan.io
 ### Mainnet
 
 ```bash
-RPC_URL=https://rpc.kalychain.io
+RPC_URL=https://rpc.kalychain.io/rpc
 CHAIN_ID=3888
 EXPLORER=https://kalyscan.io
 ```

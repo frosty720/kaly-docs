@@ -64,7 +64,7 @@ const config: Config = {
       title: 'KalyChain',
       logo: {
         alt: 'KalyChain Logo',
-        src: 'img/logo.svg',
+        src: 'img/klc.png',
       },
       items: [
         {
@@ -72,6 +72,12 @@ const config: Config = {
           sidebarId: 'gettingStartedSidebar',
           position: 'left',
           label: 'Getting Started',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'kalychainSidebar',
+          position: 'left',
+          label: 'KalyChain Network',
         },
         {
           type: 'dropdown',
@@ -101,7 +107,7 @@ const config: Config = {
           position: 'left',
           label: 'Developers',
         },
-        { to: '/blog', label: 'Blog', position: 'right' },
+        // { to: '/blog', label: 'Blog', position: 'right' },
         {
           href: 'https://github.com/kalycoinproject',
           label: 'GitHub',

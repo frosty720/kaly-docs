@@ -24,10 +24,10 @@ KalyChain is designed to be fully **EVM-compatible**, meaning it supports all ex
 | Parameter | Value |
 |-----------|-------|
 | **Network Name** | KalyChain Mainnet |
-| **RPC URL** | `https://rpc.kalychain.io` |
+| **RPC URL** | `https://rpc.kalychain.io/rpc` |
 | **Chain ID** | `3888` |
 | **Currency Symbol** | `KLC` |
-| **Explorer** | [kalychain.io](https://kalychain.io) |
+| **Explorer** | [kalyscan.io](https://kalyscan.io) |
 
 ### Testnet
 
@@ -37,7 +37,7 @@ KalyChain is designed to be fully **EVM-compatible**, meaning it supports all ex
 | **RPC URL** | `https://testnetrpc.kalychain.io/rpc` |
 | **Chain ID** | `3889` |
 | **Currency Symbol** | `KLC` |
-| **Explorer** | [testnet.kalychain.io](https://testnet.kalychain.io) |
+| **Explorer** | [testnet.kalyscan.io](https://testnet.kalyscan.io) |
 
 :::info
 Always verify you are connecting to the official RPC endpoints to ensure security.

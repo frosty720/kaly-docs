@@ -14,6 +14,59 @@ const sidebars: SidebarsConfig = {
     },
   ],
 
+  // KalyChain Technical Documentation Sidebar
+  kalychainSidebar: [
+    'kalychain/index',
+    {
+      type: 'category',
+      label: 'Quick Start',
+      items: [
+        'kalychain/quick-start/index',
+        'kalychain/quick-start/genesis-file',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Consensus',
+      items: [
+        'kalychain/consensus/index',
+        'kalychain/consensus/qbft',
+        'kalychain/consensus/validators',
+        'kalychain/consensus/bootnodes',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Transactions',
+      items: [
+        'kalychain/transactions/index',
+        'kalychain/transactions/pool',
+        'kalychain/transactions/types',
+        'kalychain/transactions/validation',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Node Operations',
+      items: [
+        'kalychain/node-operations/index',
+        'kalychain/node-operations/data-storage-formats',
+        'kalychain/node-operations/events-and-logs',
+        'kalychain/node-operations/backup',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'API Reference',
+      items: [
+        'kalychain/api/index',
+        'kalychain/api/json-rpc',
+        'kalychain/api/graphql',
+        'kalychain/api/rpc-pubsub',
+      ],
+    },
+  ],
+
   // KUSD Protocol Sidebar (Consolidated)
   kusdSidebar: [
     'kusd/overview',
@@ -82,3 +135,4 @@ const sidebars: SidebarsConfig = {
 };
 
 export default sidebars;
+

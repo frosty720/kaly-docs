@@ -39,7 +39,7 @@ cp .env.example .env
 
 ```env
 # Network Configuration
-RPC_URL=https://rpc.kalychain.io
+RPC_URL=https://rpc.kalychain.io/rpc
 CHAIN_ID=3888
 
 # Wallet Configuration

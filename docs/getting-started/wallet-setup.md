@@ -19,18 +19,17 @@ Click the network selector at the top of your MetaMask extension and choose **"A
 #### For Mainnet
 
 - **Network Name**: KalyChain Mainnet
-- **New RPC URL**: `https://rpc.kalychain.io`
+- **New RPC URL**: `https://rpc.kalychain.io/rpc`
 - **Chain ID**: `3888`
 - **Currency Symbol**: `KLC`
-- **Block Explorer URL**: `https://kalychain.io`
+- **Block Explorer URL**: `https://kalyscan.io`
 
-#### For Testnet
-
+**Testnet Configuration**:
 - **Network Name**: KalyChain Testnet
 - **New RPC URL**: `https://testnetrpc.kalychain.io/rpc`
 - **Chain ID**: `3889`
 - **Currency Symbol**: `KLC`
-- **Block Explorer URL**: `https://testnet.kalychain.io`
+- **Block Explorer URL**: `https://testnet.kalyscan.io`
 
 ### 3. Save
 
