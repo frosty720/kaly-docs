@@ -36,7 +36,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/KalyChain/docs/tree/main/',
+          editUrl: 'https://github.com/kalycoinproject/docs/tree/main/',
           routeBasePath: '/', // Docs as homepage
         },
         blog: {
@@ -45,7 +45,7 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl: 'https://github.com/KalyChain/docs/tree/main/',
+          editUrl: 'https://github.com/kalycoinproject/docs/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -103,7 +103,7 @@ const config: Config = {
         },
         { to: '/blog', label: 'Blog', position: 'right' },
         {
-          href: 'https://github.com/KalyChain',
+          href: 'https://github.com/kalycoinproject',
           label: 'GitHub',
           position: 'right',
         },
@@ -151,7 +151,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/KalyChain',
+              href: 'https://github.com/kalycoinproject',
             },
             {
               label: 'Resources',

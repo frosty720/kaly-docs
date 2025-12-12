@@ -7,8 +7,8 @@ sidebar_position: 4
 - **Module Name:** Rates Module
 - **Type/Category:** Rates → Jug.sol, Pot.sol
 - **Contract Sources:**
-  - [**Jug**](https://github.com/KalyChain/KUSD/blob/main/kusd-core/src/jug.sol)
-  - [**Pot**](https://github.com/KalyChain/KUSD/blob/main/kusd-core/src/pot.sol)
+  - [**Jug**](https://github.com/kalycoinproject/KUSD/blob/main/kusd-core/src/jug.sol)
+  - [**Pot**](https://github.com/kalycoinproject/KUSD/blob/main/kusd-core/src/pot.sol)
 
 ## 1. Introduction
 

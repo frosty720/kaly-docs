@@ -7,7 +7,7 @@ sidebar_position: 2
 - **Module Name:** Oracle Module
 - **Type/Category:** Oracles → Median.sol & OSM.sol
 - **Contract Sources:**
-  - [**Oracle**](https://github.com/KalyChain/KUSD/blob/main/oracle/)
+  - [**Oracle**](https://github.com/kalycoinproject/KUSD/blob/main/oracle/)
 
 ## 1. Introduction
 

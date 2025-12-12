@@ -8,8 +8,8 @@ sidebar_label: Core Module
 - **Module Name:** Vault Core Module
 - **Type/Category:** Vault Core Module → (Vat.sol, Spot.sol)
 - **Contract Sources:**
-  - [**Vat**](https://github.com/KalyChain/KUSD/blob/main/kusd-core/src/vat.sol)
-  - [**Spot**](https://github.com/KalyChain/KUSD/blob/main/kusd-core/src/spot.sol)
+  - [**Vat**](https://github.com/kalycoinproject/KUSD/blob/main/kusd-core/src/vat.sol)
+  - [**Spot**](https://github.com/kalycoinproject/KUSD/blob/main/kusd-core/src/spot.sol)
 
 ## 1. Introduction
 

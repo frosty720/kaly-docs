@@ -10,8 +10,8 @@ sidebar_position: 1
 
 | Keeper | Purpose | Repository |
 |--------|---------|------------|
-| **KUSD Keeper** | Liquidations, arbitrage, peg maintenance | [kusd-keeper](https://github.com/KalyChain/KUSD/tree/main/kusd-keeper) |
-| **PSM Keeper** | PSM arbitrage and monitoring | [psm-keeper](https://github.com/KalyChain/KUSD/tree/main/psm-keeper) |
+| **KUSD Keeper** | Liquidations, arbitrage, peg maintenance | [kusd-keeper](https://github.com/kalycoinproject/KUSD/tree/main/kusd-keeper) |
+| **PSM Keeper** | PSM arbitrage and monitoring | [psm-keeper](https://github.com/kalycoinproject/KUSD/tree/main/psm-keeper) |
 
 ## KUSD Keeper
 
@@ -52,7 +52,7 @@ The PSM Keeper focuses specifically on Peg Stability Module operations:
 
 ```bash
 # Clone repository
-git clone https://github.com/KalyChain/KUSD.git
+git clone https://github.com/kalycoinproject/KUSD.git
 cd KUSD/kusd-keeper
 
 # Install dependencies
