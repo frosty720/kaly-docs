@@ -124,7 +124,9 @@ const sidebars: SidebarsConfig = {
   // KalyDAO Sidebar
   daoSidebar: [
     'kalydao/overview',
-    // Add more DAO docs here later
+    'kalydao/voting',
+    'kalydao/proposals',
+    'kalydao/contracts',
   ],
 
   // Developers Sidebar

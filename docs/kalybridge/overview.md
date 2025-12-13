@@ -18,9 +18,22 @@ sidebar_position: 1
 - **To**: KalyChain
 - *(and vice versa)*
 
-## Official URL
+## Where to Bridge
+
+You can bridge tokens using either of these official interfaces:
+
+| Interface | URL | Description |
+|-----------|-----|-------------|
+| **KalyBridge** | [bridge.kalychain.io](https://bridge.kalychain.io/) | Dedicated bridge interface |
+| **KalySwap** | [app.kalyswap.io/bridge](https://app.kalyswap.io/bridge) | Bridge integrated into KalySwap DEX |
 
 :::danger Security Warning
 Always ensure you are on the correct URL to avoid phishing attacks.
-**Official Bridge URL**: [https://bridge.kalychain.io/](https://bridge.kalychain.io/)
+- **Official Bridge**: `https://bridge.kalychain.io/`
+- **KalySwap Bridge**: `https://app.kalyswap.io/bridge`
 :::
+
+## Next Steps
+
+- [How to Bridge](./how-to-bridge) — Step-by-step bridging guide
+- [Supported Tokens](./supported-tokens) — List of bridgeable assets

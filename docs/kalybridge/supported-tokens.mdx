@@ -1,0 +1,168 @@
+---
+sidebar_position: 3
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+# Supported Tokens
+
+KalyBridge supports bridging the following assets between KalyChain and BSC.
+
+## Where to Bridge
+
+- **[KalyBridge](https://bridge.kalychain.io/)** — Dedicated bridge interface
+- **[KalySwap Bridge](https://app.kalyswap.io/bridge)** — Integrated into KalySwap DEX
+
+## Token List & Contract Addresses
+
+Click "Add to MetaMask" to quickly add any token to your wallet.
+
+### Native Token
+
+<div className="token-card">
+  <img src="/img/klc.png" alt="KLC" width="40" height="40" style={{borderRadius: '50%'}} />
+  <div>
+    <strong>KalyChain (KLC)</strong><br/>
+    Native gas token — no contract address needed
+  </div>
+</div>
+
+---
+
+### Bridged Tokens on KalyChain
+
+<div className="token-card">
+  <img src="/img/bnb-bnb-logo.svg" alt="BNB" width="40" height="40" />
+  <div>
+    <strong>Wrapped BNB (BNB)</strong><br/>
+    <code>0x0e2318b62a096AC68ad2D7F37592CBf0cA9c4Ddb</code><br/>
+    <a href="https://kalyscan.io/token/0x0e2318b62a096AC68ad2D7F37592CBf0cA9c4Ddb" target="_blank">View on Explorer</a>
+  </div>
+  <button onClick={() => window.ethereum?.request({method: 'wallet_watchAsset', params: {type: 'ERC20', options: {address: '0x0e2318b62a096AC68ad2D7F37592CBf0cA9c4Ddb', symbol: 'BNB', decimals: 18, image: 'https://docs.kalychain.io/img/bnb-bnb-logo.svg'}}})}>
+    Add to MetaMask
+  </button>
+</div>
+
+<div className="token-card">
+  <img src="/img/tether-usdt-logo.svg" alt="USDT" width="40" height="40" />
+  <div>
+    <strong>Tether (USDT)</strong><br/>
+    <code>0x2CA775C77B922A51FcF3097F52bFFdbc0250D99A</code><br/>
+    <a href="https://kalyscan.io/token/0x2CA775C77B922A51FcF3097F52bFFdbc0250D99A" target="_blank">View on Explorer</a>
+  </div>
+  <button onClick={() => window.ethereum?.request({method: 'wallet_watchAsset', params: {type: 'ERC20', options: {address: '0x2CA775C77B922A51FcF3097F52bFFdbc0250D99A', symbol: 'USDT', decimals: 6, image: 'https://docs.kalychain.io/img/tether-usdt-logo.svg'}}})}>
+    Add to MetaMask
+  </button>
+</div>
+
+<div className="token-card">
+  <img src="/img/multi-collateral-dai-dai-logo.svg" alt="DAI" width="40" height="40" />
+  <div>
+    <strong>DAI Stablecoin (DAI)</strong><br/>
+    <code>0x6E92CAC380F7A7B86f4163fad0df2F277B16Edc6</code><br/>
+    <a href="https://kalyscan.io/token/0x6E92CAC380F7A7B86f4163fad0df2F277B16Edc6" target="_blank">View on Explorer</a>
+  </div>
+  <button onClick={() => window.ethereum?.request({method: 'wallet_watchAsset', params: {type: 'ERC20', options: {address: '0x6E92CAC380F7A7B86f4163fad0df2F277B16Edc6', symbol: 'DAI', decimals: 18, image: 'https://docs.kalychain.io/img/multi-collateral-dai-dai-logo.svg'}}})}>
+    Add to MetaMask
+  </button>
+</div>
+
+<div className="token-card">
+  <img src="/img/usd-coin-usdc-logo.svg" alt="USDC" width="40" height="40" />
+  <div>
+    <strong>USD Coin (USDC)</strong><br/>
+    <code>0x9cAb0c396cF0F4325913f2269a0b72BD4d46E3A9</code><br/>
+    <a href="https://kalyscan.io/token/0x9cAb0c396cF0F4325913f2269a0b72BD4d46E3A9" target="_blank">View on Explorer</a>
+  </div>
+  <button onClick={() => window.ethereum?.request({method: 'wallet_watchAsset', params: {type: 'ERC20', options: {address: '0x9cAb0c396cF0F4325913f2269a0b72BD4d46E3A9', symbol: 'USDC', decimals: 6, image: 'https://docs.kalychain.io/img/usd-coin-usdc-logo.svg'}}})}>
+    Add to MetaMask
+  </button>
+</div>
+
+<div className="token-card">
+  <img src="/img/bitcoin-btc-logo.svg" alt="WBTC" width="40" height="40" />
+  <div>
+    <strong>Wrapped Bitcoin (WBTC)</strong><br/>
+    <code>0xaA77D4a26d432B82DB07F8a47B7f7F623fd92455</code><br/>
+    <a href="https://kalyscan.io/token/0xaA77D4a26d432B82DB07F8a47B7f7F623fd92455" target="_blank">View on Explorer</a>
+  </div>
+  <button onClick={() => window.ethereum?.request({method: 'wallet_watchAsset', params: {type: 'ERC20', options: {address: '0xaA77D4a26d432B82DB07F8a47B7f7F623fd92455', symbol: 'WBTC', decimals: 8, image: 'https://docs.kalychain.io/img/bitcoin-btc-logo.svg'}}})}>
+    Add to MetaMask
+  </button>
+</div>
+
+<div className="token-card">
+  <img src="/img/ethereum-eth-logo.svg" alt="ETH" width="40" height="40" />
+  <div>
+    <strong>Ethereum (ETH)</strong><br/>
+    <code>0xfdbB253753dDE60b11211B169dC872AaE672879b</code><br/>
+    <a href="https://kalyscan.io/token/0xfdbB253753dDE60b11211B169dC872AaE672879b" target="_blank">View on Explorer</a>
+  </div>
+  <button onClick={() => window.ethereum?.request({method: 'wallet_watchAsset', params: {type: 'ERC20', options: {address: '0xfdbB253753dDE60b11211B169dC872AaE672879b', symbol: 'ETH', decimals: 18, image: 'https://docs.kalychain.io/img/ethereum-eth-logo.svg'}}})}>
+    Add to MetaMask
+  </button>
+</div>
+
+---
+
+## Wrapped KLC on Other Networks
+
+KLC is available as a wrapped token on these networks:
+
+| Network | Contract Address | Explorer |
+|---------|------------------|----------|
+| **Binance Smart Chain** | `0x02CF1778c07584D92b610E0C03fA285DfD00c354` | [View](https://bscscan.com/token/0x02CF1778c07584D92b610E0C03fA285DfD00c354) |
+| **Arbitrum** | `0x7542c62565f48520A34Cf79884656efDEdD38176` | [View](https://arbiscan.io/token/0x7542c62565f48520A34Cf79884656efDEdD38176) |
+| **Polygon** | `0x285C14145EB75A1918B48f93E126139ea1a0f294` | [View](https://polygonscan.com/token/0x285C14145EB75A1918B48f93E126139ea1a0f294) |
+
+---
+
+## Manual Token Import
+
+If the "Add to MetaMask" button doesn't work, add tokens manually:
+
+1. Open MetaMask
+2. Ensure you're on the **KalyChain** network
+3. Click **"Import tokens"**
+4. Paste the contract address
+5. Symbol and decimals should auto-fill
+6. Click **Add Custom Token**
+
+<style>
+{`
+.token-card {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 16px;
+  margin: 12px 0;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  background: var(--ifm-background-surface-color);
+}
+.token-card img {
+  flex-shrink: 0;
+}
+.token-card div {
+  flex: 1;
+}
+.token-card code {
+  font-size: 0.85em;
+  word-break: break-all;
+}
+.token-card button {
+  padding: 8px 16px;
+  background: var(--ifm-color-primary);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  white-space: nowrap;
+  text-align: center;
+}
+.token-card button:hover {
+  background: var(--ifm-color-primary-dark);
+}
+`}
+</style>

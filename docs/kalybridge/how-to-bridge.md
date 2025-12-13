@@ -2,18 +2,19 @@
 sidebar_position: 2
 ---
 
-# How to Bridge Tokens
+# How to Bridge
 
-Follow these steps to bridge tokens to or from KalyChain and Binance Smart Chain (BSC).
+This guide walks you through bridging tokens between BSC and KalyChain.
 
 ## Prerequisites
 
-- Metamask or another supported Web3 wallet.
-- Gas tokens for the network you are bridging **FROM** (e.g., BNB for BSC, KLC for KalyChain).
+- A Web3 wallet (MetaMask recommended)
+- Tokens on the source network (BSC or KalyChain)
+- Small amount of native tokens for gas (BNB on BSC, KLC on KalyChain)
 
 ## Step-by-Step Guide
 
-1. **Go to Official Site**: Navigate to [https://bridge.kalychain.io/](https://bridge.kalychain.io/).
+1. **Go to the Bridge**: Navigate to [bridge.kalychain.io](https://bridge.kalychain.io/) or [app.kalyswap.io/bridge](https://app.kalyswap.io/bridge).
    
 2. **Connect Wallet**: Click the **"Connect Wallet"** button and approve the connection in MetaMask.
 
