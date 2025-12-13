@@ -38,5 +38,5 @@ KalyChain is fully compatible with standard EVM developer tools:
 Contracts can be verified on the block explorer using the standard API or direct source code upload.
 
 :::tip Need Help?
-Join our [Discord](https://discord.gg/kalychain) developer channel for support.
+Join our [Discord](https://discord.gg/4fDuS3cBJw) developer channel for support.
 :::

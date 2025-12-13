@@ -74,5 +74,5 @@ KUSD is a crypto-collateralized stablecoin soft-pegged to the US Dollar. Users c
 ## Getting Help
 
 - **GitHub**: [KalyChain/KUSD](https://github.com/kalycoinproject/KUSD)
-- **Telegram**: [t.me/KalyChain](https://t.me/KalyChain)
+- **Telegram**: [t.me/KalyChain](https://t.me/+yj8Ae9lNXmg1Yzkx)
 - **Twitter**: [@KalyChain](https://twitter.com/KalyChain)

@@ -144,11 +144,11 @@ const config: Config = {
             },
             {
               label: 'Telegram',
-              href: 'https://t.me/KalyChain',
+              href: 'https://t.me/+yj8Ae9lNXmg1Yzkx',
             },
             {
               label: 'Discord',
-              href: 'https://discord.gg/kalychain',
+              href: 'https://discord.gg/4fDuS3cBJw',
             },
           ],
         },
