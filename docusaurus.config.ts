@@ -79,6 +79,7 @@ const config: Config = {
           position: 'left',
           label: 'KalyChain Network',
         },
+
         {
           type: 'dropdown',
           label: 'Ecosystem',
@@ -93,6 +94,11 @@ const config: Config = {
               type: 'docSidebar',
               sidebarId: 'bridgeSidebar',
               label: 'KalyBridge',
+            },
+            {
+              type: 'docSidebar',
+              sidebarId: 'kalyswapSidebar',
+              label: 'KalySwap',
             },
             {
               type: 'docSidebar',

@@ -6,6 +6,8 @@ sidebar_position: 1
 
 Welcome to the **KUSD Protocol** technical documentation. KUSD is a decentralized, collateral-backed stablecoin built on KalyChain, forked from the battle-tested MakerDAO system.
 
+![KUSD Protocol Home](/img/kusd/kusd_home_1765832149599.png)
+
 ## What is KUSD?
 
 KUSD is a crypto-collateralized stablecoin soft-pegged to the US Dollar. Users can generate KUSD by depositing collateral assets into Vaults within the KUSD Protocol. This enables:

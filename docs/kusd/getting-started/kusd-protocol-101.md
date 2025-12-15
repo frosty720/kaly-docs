@@ -14,6 +14,8 @@ The KUSD Protocol is a decentralized credit system deployed on KalyChain that al
 
 Users lock collateral in smart contracts called **Vaults**. Against this collateral, users can generate (borrow) KUSD up to a certain collateralization ratio.
 
+![KUSD Minting Interface](/img/kusd/kusd_mint_1765832181670.png)
+
 ### Supported Collateral Types
 
 | Collateral | Symbol | Type | Decimals |

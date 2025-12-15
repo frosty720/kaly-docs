@@ -6,6 +6,8 @@ sidebar_position: 1
 
 **KalyDAO** is the decentralized governance system for KalyChain, enabling on-chain governance using native KLC tokens for voting power.
 
+![KalyDAO Home](/img/kalydao/kalydao_home_1765832204497.png)
+
 ## How It Works
 
 KalyDAO uses the [OpenZeppelin Governor](https://docs.openzeppelin.com/contracts/4.x/governance) framework with a unique twist: it wraps the **native KLC token** to enable voting, rather than requiring a separate governance token.

@@ -39,6 +39,8 @@ You must delegate (even to yourself) before your gKLC has voting power. Undelega
 
 ### 1. Find Active Proposals
 
+![KalyDAO Voting Interface](/img/kalydao/kalydao_voting_1_1765832207017.png)
+
 Visit [dao.kalychain.io](https://dao.kalychain.io) to view:
 
 - **Active proposals** — Currently open for voting

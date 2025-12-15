@@ -121,6 +121,17 @@ const sidebars: SidebarsConfig = {
     'kalybridge/supported-tokens',
   ],
 
+  // KalySwap Sidebar
+  kalyswapSidebar: [
+    'kalyswap/index',
+    'kalyswap/swapping',
+    'kalyswap/liquidity',
+    'kalyswap/farming-staking',
+    'kalyswap/launchpad',
+    'kalyswap/bridge',
+    'kalyswap/contracts',
+  ],
+
   // KalyDAO Sidebar
   daoSidebar: [
     'kalydao/overview',
