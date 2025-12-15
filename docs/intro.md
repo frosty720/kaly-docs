@@ -36,6 +36,12 @@ Move assets securely between KalyChain and other networks specifically BSC.
 - **[How to Bridge](./kalybridge/how-to-bridge)** — Step-by-step guide.
 - **[Supported Tokens](./kalybridge/supported-tokens)** — List of bridgeable assets.
 
+### 💱 [KalySwap](./kalyswap/index)
+The premier decentralized exchange (DEX) on KalyChain.
+- **[Swap](./kalyswap/swapping)** — Trade tokens instantly.
+- **[Liquidity](./kalyswap/liquidity)** — Provide liquidity and earn fees.
+- **[Farming](./kalyswap/farming-staking)** — Yield farming opportunities.
+
 ### 🏛️ [KalyDAO](./kalydao/overview)
 Governance and decision-making for the ecosystem.
 

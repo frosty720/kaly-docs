@@ -136,6 +136,10 @@ const config: Config = {
               to: '/kalybridge/overview',
             },
             {
+              label: 'KalySwap',
+              to: '/kalyswap/index',
+            },
+            {
               label: 'KalyDAO',
               to: '/kalydao/overview',
             },
