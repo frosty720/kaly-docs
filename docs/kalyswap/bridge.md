@@ -11,9 +11,9 @@ sidebar_position: 6
 ## Supported Networks
 
 You can currently bridge assets to/from:
-*   **Ethereum (ETH)**
+*   **Arbitrum (ETH)**
 *   **Binance Smart Chain (BSC)**
-*   **Polygon (MATIC)**
+*   **ClishaChain (CLISHA)**
 *   *(More networks coming soon)*
 
 ## How to Bridge

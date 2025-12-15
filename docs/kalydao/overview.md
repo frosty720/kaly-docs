@@ -6,7 +6,7 @@ sidebar_position: 1
 
 **KalyDAO** is the decentralized governance system for KalyChain, enabling on-chain governance using native KLC tokens for voting power.
 
-![KalyDAO Home](/img/kalydao/kalydao_home_1765832204497.png)
+![KalyDAO Home](/img/kalydao/kalydao_home_v3_1765833428699.png)
 
 ## How It Works
 

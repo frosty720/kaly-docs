@@ -40,7 +40,7 @@ flowchart LR
 
 1. Go to [dao.kalychain.io](https://dao.kalychain.io)
 
-![KalyDAO Proposals](/img/kalydao/kalydao_proposals_1765832205781.png)
+![KalyDAO Proposals](/img/kalydao/kalydao_proposals_v3_1765833399049.png)
 2. Connect your wallet
 3. Click "Create Proposal"
 4. Fill in:
