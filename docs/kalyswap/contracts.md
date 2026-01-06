@@ -10,8 +10,8 @@ KalySwap uses the standard Uniswap V2 protocol for its AMM functionality. Below 
 
 | Contract Name | Address |
 | :--- | :--- |
-| **UniswapV2Factory** | `0xb7b7a31C69199EB3D7378E84499c5335A9E99311` |
-| **UniswapV2Router02** | `0xA39723dC2713C9eECe0CecC74AC519Aa2dFB4206` |
+| **UniswapV2Factory** | `0xD42Af909d323D88e0E933B6c50D3e91c279004ca` |
+| **UniswapV2Router02** | `0x183F288BF7EEBe1A3f318F4681dF4a70ef32B2f3` |
 
 ### Init Code Hash
 The pair initialization code hash (used for computing pair addresses):
