@@ -7,7 +7,7 @@ sidebar_position: 5
 - **Module Name:** Governance Module
 - **Type/Category:** Governance → Pause.sol, End.sol
 - **Contract Sources:**
-  - [**End**](https://github.com/kalycoinproject/KUSD/blob/main/kusd-core/src/end.sol)
+  - [**End**](https://github.com/KalyCoinProject/kusd-core/blob/main/src/end.sol)
 
 ## 1. Introduction
 

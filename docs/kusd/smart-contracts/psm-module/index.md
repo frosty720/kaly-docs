@@ -7,8 +7,8 @@ sidebar_position: 1
 - **Module Name:** Peg Stability Module
 - **Type/Category:** Stability → KssLitePsm.sol
 - **Contract Sources:**
-  - [**KssLitePsm**](https://github.com/kalycoinproject/KUSD/blob/main/kss-lite-psm/src/KssLitePsm.sol)
-  - [**GemJoin**](https://github.com/kalycoinproject/KUSD/blob/main/kss-lite-psm/src/join-5-usdc.sol)
+  - [**KssLitePsm**](https://github.com/KalyCoinProject/kss-lite-psm/blob/main/src/KssLitePsm.sol)
+  - [**GemJoin**](https://github.com/KalyCoinProject/kss-lite-psm/blob/main/src/join-5-usdc.sol)
 
 ## 1. Introduction
 

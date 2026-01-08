@@ -7,9 +7,9 @@ sidebar_position: 3
 - **Module Name:** Liquidation 2.0 Module
 - **Type/Category:** DSS → Dog.sol, Clip.sol, Abaci.sol
 - **Contract Sources:**
-  - [**Dog**](https://github.com/kalycoinproject/KUSD/blob/main/kusd-core/src/dog.sol)
-  - [**Clip**](https://github.com/kalycoinproject/KUSD/blob/main/kusd-core/src/clip.sol)
-  - [**Abaci**](https://github.com/kalycoinproject/KUSD/blob/main/kusd-core/src/abaci.sol)
+  - [**Dog**](https://github.com/KalyCoinProject/kusd-core/blob/main/src/dog.sol)
+  - [**Clip**](https://github.com/KalyCoinProject/kusd-core/blob/main/src/clip.sol)
+  - [**Abaci**](https://github.com/KalyCoinProject/kusd-core/blob/main/src/abaci.sol)
 
 ## 1. Introduction
 

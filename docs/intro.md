@@ -48,5 +48,5 @@ Governance and decision-making for the ecosystem.
 ## For Developers
 
 - **[Developer Resources](./developers/resources)** — RPC endpoints, contract addresses, and tools.
-- **[GitHub](https://github.com/kalycoinproject)** — Explore our open-source codebase.
+- **[GitHub](https://github.com/KalyCoinProject)** — Explore our open-source codebase.
 

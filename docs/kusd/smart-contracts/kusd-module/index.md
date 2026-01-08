@@ -8,8 +8,8 @@ sidebar_label: KUSD Module
 - **Module Name:** KUSD Module
 - **Type/Category:** Token → KUSD.sol and KUSDJoin.sol
 - **Contract Sources:**
-  - [**KUSD**](https://github.com/kalycoinproject/KUSD/blob/main/kusd-core/src/kusd.sol)
-  - [**KUSDJoin**](https://github.com/kalycoinproject/KUSD/blob/main/kusd-core/src/join.sol)
+  - [**KUSD**](https://github.com/KalyCoinProject/kusd-core/blob/main/src/kusd.sol)
+  - [**KUSDJoin**](https://github.com/KalyCoinProject/kusd-core/blob/main/src/join.sol)
 
 ## 1. Introduction
 

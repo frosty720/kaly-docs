@@ -17,8 +17,8 @@ Complete guide to setting up and running the KUSD Keeper bot.
 
 ```bash
 # Clone the repository
-git clone https://github.com/kalycoinproject/KUSD.git
-cd KUSD/kusd-keeper
+git clone https://github.com/KalyCoinProject/kusd-keeper.git
+cd kusd-keeper
 
 # Install dependencies
 npm install

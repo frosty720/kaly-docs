@@ -31,12 +31,21 @@ Before installing KalyChain, ensure you have:
 
 ## Installation
 
+### Automated Installation (Recommended)
+
+The easiest way to set up a KalyChain node is using our automated install scripts. Refer to the [node-install repository](https://github.com/KalyCoinProject/node-install) for complete setup instructions including:
+
+- Automated node installation
+- Configuration files for different node types (RPC, validator, archive)
+- Genesis files and bootnode information
+- Systemd service setup
+
 ### Download Binary Distribution
 
-1. Download the latest release from [KalyChain Releases](https://github.com/Kaly-Chain/kalychain/releases):
+1. Download the latest release from [KalyChain Releases](https://github.com/KalyCoinProject/kalychain/releases):
 
 ```bash
-wget https://github.com/Kaly-Chain/kalychain/releases/download/v<version>/kaly-<version>.tar.gz
+wget https://github.com/KalyCoinProject/kalychain/releases/download/v<version>/kaly-<version>.tar.gz
 ```
 
 2. Extract the archive and navigate to the directory:
@@ -56,7 +65,7 @@ You should see the KalyChain command-line options displayed.
 
 ### Build from Source
 
-For the latest development features or custom modifications, you can build from source. Refer to the [KalyChain GitHub repository](https://github.com/Kaly-Chain/kalychain) for build instructions.
+For the latest development features or custom modifications, you can build from source. Refer to the [KalyChain GitHub repository](https://github.com/KalyCoinProject/kalychain) for build instructions.
 
 ## Starting a Node
 

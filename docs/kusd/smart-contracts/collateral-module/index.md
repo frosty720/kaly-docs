@@ -7,8 +7,8 @@ sidebar_position: 1
 - **Module Name:** Collateral Module
 - **Type/Category:** DSS → join.sol, clip.sol
 - **Contract Sources:**
-  - [**Join**](https://github.com/kalycoinproject/KUSD/blob/main/kusd-core/src/join.sol)
-  - [**Clip**](https://github.com/kalycoinproject/KUSD/blob/main/kusd-core/src/clip.sol)
+  - [**Join**](https://github.com/KalyCoinProject/kusd-core/blob/main/src/join.sol)
+  - [**Clip**](https://github.com/KalyCoinProject/kusd-core/blob/main/src/clip.sol)
 
 ## 1. Introduction
 
