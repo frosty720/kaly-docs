@@ -150,15 +150,15 @@ const config: Config = {
           items: [
             {
               label: 'Twitter',
-              href: 'https://twitter.com/KalyChain',
+              href: 'https://x.com/KalyChainEVM',
             },
             {
               label: 'Telegram',
-              href: 'https://t.me/+yj8Ae9lNXmg1Yzkx',
+              href: 'https://t.me/KalyChain',
             },
             {
               label: 'Discord',
-              href: 'https://discord.gg/4fDuS3cBJw',
+              href: 'https://discord.gg/tTe8BmcAks',
             },
           ],
         },
