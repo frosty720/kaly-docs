@@ -13,7 +13,6 @@ sidebar_position: 6
 You can currently bridge assets to/from:
 *   **Arbitrum (ETH)**
 *   **Binance Smart Chain (BSC)**
-*   **ClishaChain (CLISHA)**
 *   *(More networks coming soon)*
 
 ## How to Bridge
